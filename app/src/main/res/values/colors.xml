@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_base">#323232</color>
+    <color name="color_base_complementary">#323232</color>
+
+    <color name="color_accent">#D6C5A7</color>
+    <color name="color_accent_complementary">#6C6861</color>
+
+    <color name="color_accent_alternative">#8AAB9F</color>
+    <color name="color_accent_alternative_complementary">#485B55</color>
+</resources>
