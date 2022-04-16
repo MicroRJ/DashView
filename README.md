@@ -3,3 +3,5 @@ DashView is a barebones Android app that'll read telemetry data from Forza Horiz
 ### DashView is not by any means production ready!
 
 ![]("https://github.com/MicroRJ/DashView/blob/master/gif.gif")
+
+Honestly I can't be bothered to learn why the stupid gif isn't showing here.
