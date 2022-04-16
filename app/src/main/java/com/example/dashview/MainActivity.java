@@ -18,6 +18,10 @@ import java.net.DatagramSocket;
 import java.net.InetSocketAddress;
 import java.net.SocketException;
 
+// TODO(RJ):
+// - Themes
+// - Only update the properties that changed.
+// - Display all properties on a separate modal like view the user can toggle on or off.
 public class MainActivity extends AppCompatActivity
 {
   private static final int MIN_PORT = 5000;
